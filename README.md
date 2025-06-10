@@ -1,4 +1,4 @@
-# https://github.com/cakshon/tictactoe/tree/
+# https://github.com/cakshon/tictactoe/
 # ES234211 – Programming Fundamental
 Mini Project
 Group 01, Class C
